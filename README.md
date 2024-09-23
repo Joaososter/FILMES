@@ -13,7 +13,7 @@ O gênero de ser Romance, Terror ou Comédia;
 📋 Pré-requisitos
 
 - Java JDK (versão 11 ou superior)
-- 
+  
 - Visual Studio Code para desenvolvimento e execução do código.
 
 
