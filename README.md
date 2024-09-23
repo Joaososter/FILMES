@@ -13,6 +13,7 @@ O gênero de ser Romance, Terror ou Comédia;
 📋 Pré-requisitos
 
 - Java JDK (versão 11 ou superior)
+- 
 - Visual Studio Code para desenvolvimento e execução do código.
 
 
@@ -22,6 +23,7 @@ O gênero de ser Romance, Terror ou Comédia;
    git clone https://github.com/Joaososter/FILMES.git
 
 2. Abra o projeto no VS code
+   
 3. Compile e execute a classe Filme no terminal ou através da extensão de Java no VS Code.
 
 
@@ -29,6 +31,7 @@ O gênero de ser Romance, Terror ou Comédia;
 🛠️ Construído com
 
 Java - Linguagem de programação usada
+
 Visual Studio Code - IDE utilizada para o desenvolvimento
 
 
