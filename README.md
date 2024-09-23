@@ -18,7 +18,7 @@ O gênero de ser Romance, Terror ou Comédia;
 🔧 Instalação
 
 1. Faça o download ou clone o repositório do projeto para seu ambiente local:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Joaososter/FILMES.git
 
 2. Abra o projeto no VS code
 3. Compile e execute a classe Filme no terminal ou através da extensão de Java no VS Code.
