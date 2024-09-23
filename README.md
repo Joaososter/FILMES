@@ -3,6 +3,7 @@ Projeto Filme
 Este projeto em Java consiste na criação de uma classe Filme, que encapsula os atributos de um filme como título, duração e gênero, com validações para garantir a integridade dos dados. O projeto foi desenvolvido como parte da prática de programação orientada a objetos, utilizando conceitos como encapsulamento, construtores e métodos de validação.
 
 🚀 Começando
+
 Crie uma classe Filme que contém os atributos título, duração em minutos e gênero. Essa classe deve encapsular e validar todos os atributos.
 
 O título não pode estar vazio.
